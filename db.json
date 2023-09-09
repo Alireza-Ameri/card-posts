@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Sebastian",
+      "username": "Eschweiler",
+      "timestamp": 1689925105809,
+      "text": "This is a test - 1."
+    },
+    {
+      "id": 2,
+      "name": "Daniel",
+      "username": "James",
+      "timestamp": 1689925143201,
+      "text": "This is a test - 2."
+    },
+    {
+      "id": 3,
+      "name": "Lionel",
+      "username": "Hernandez",
+      "timestamp": 1689925103219,
+      "text": "This is a test - 3."
+    },
+    {
+      "id": 4,
+      "name": "Thomas",
+      "username": "Rice",
+      "timestamp": 1689925103271,
+      "text": "This is a test - 4."
+    },
+    {
+      "id": 5,
+      "name": "Jack",
+      "username": "Johnson",
+      "timestamp": 1689925101239,
+      "text": "This is a test - 5."
+    },
+    {
+      "id": 6,
+      "name": "Mark",
+      "username": "Pele",
+      "timestamp": 1689925194509,
+      "text": "This is a test - 6."
+    }
+  ]
+}
